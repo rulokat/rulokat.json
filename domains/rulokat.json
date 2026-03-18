@@ -1,0 +1,11 @@
+{
+  "description": "Rulokat Arşiv - Kişisel arşiv uygulaması",
+  "repo": "https://github.com/rulokat/Rulokat-Arsiv",
+  "owner": {
+    "username": "rulokat",
+    "email": "GitHub emailin"
+  },
+  "record": {
+    "CNAME": "rulokat.github.io"
+  }
+}
